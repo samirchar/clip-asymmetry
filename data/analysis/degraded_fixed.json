@@ -1,0 +1,102 @@
+{
+  "degraded_fixed": [
+    {
+      "vision": "Atto",
+      "degraded": 30.266322636926695,
+      "fixed": 33.01603193879924,
+      "delta": 2.7497093018725427,
+      "wins": 25,
+      "n": 30,
+      "sign_p": 0.0003249142318964005
+    },
+    {
+      "vision": "Tiny",
+      "degraded": 35.17038379331151,
+      "fixed": 37.901465741028986,
+      "delta": 2.731081947717469,
+      "wins": 27,
+      "n": 30,
+      "sign_p": 8.430331945419312e-06
+    },
+    {
+      "vision": "Base",
+      "degraded": 36.96624173498444,
+      "fixed": 39.30634156246164,
+      "delta": 2.3400998274771987,
+      "wins": 24,
+      "n": 30,
+      "sign_p": 0.0014309063553810122
+    },
+    {
+      "vision": "Giant",
+      "degraded": 39.79162669761943,
+      "fixed": 41.45054400601462,
+      "delta": 1.658917308395192,
+      "wins": 21,
+      "n": 29,
+      "sign_p": 0.0241195447742939
+    }
+  ],
+  "frontier": [
+    {
+      "fixed_vision": "Atto",
+      "fixed_avg": 33.01603193879924,
+      "ref": "ViT-Atto-16--Tiny",
+      "ref_avg": 33.589210523114076,
+      "kind": "best-per-vision",
+      "delta": -0.5731785843148383,
+      "wins": 16,
+      "n": 30,
+      "sign_p": 0.8555355519056321,
+      "verdict": "matches"
+    },
+    {
+      "fixed_vision": "Tiny",
+      "fixed_avg": 37.901465741028986,
+      "ref": "ViT-Tiny-16--Nano",
+      "ref_avg": 37.96641244547584,
+      "kind": "best-per-vision",
+      "delta": -0.0649467044468563,
+      "wins": 17,
+      "n": 30,
+      "sign_p": 0.5846647117286922,
+      "verdict": "matches"
+    },
+    {
+      "fixed_vision": "Base",
+      "fixed_avg": 39.30634156246164,
+      "ref": "ViT-B-16--Tiny",
+      "ref_avg": 38.249624575002,
+      "kind": "best-per-vision",
+      "delta": 1.0567169874596454,
+      "wins": 22,
+      "n": 30,
+      "sign_p": 0.016124801710247997,
+      "verdict": "surpasses"
+    },
+    {
+      "fixed_vision": "Giant",
+      "fixed_avg": 41.45054400601462,
+      "ref": "ViT-Giant-16--Tiny",
+      "ref_avg": 40.48387820294473,
+      "kind": "best-per-vision",
+      "delta": 0.9666658030698964,
+      "wins": 22,
+      "n": 30,
+      "sign_p": 0.016124801710247997,
+      "verdict": "surpasses"
+    },
+    {
+      "fixed_vision": "Giant",
+      "fixed_avg": 41.45054400601462,
+      "ref": "ViT-Colossal-16--Giant",
+      "ref_avg": 41.37017934803996,
+      "kind": "overall-best",
+      "delta": 0.08036465797465651,
+      "wins": 17,
+      "n": 30,
+      "sign_p": 0.5846647117286922,
+      "verdict": "matches"
+    }
+  ]
+}

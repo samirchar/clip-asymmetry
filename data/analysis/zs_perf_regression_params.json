@@ -1,0 +1,49 @@
+{
+  "spearman_total_params": {
+    "r": 0.6244716351501668,
+    "p": 0.00022571024030511785
+  },
+  "model_comparison": [
+    {
+      "model": "linear-log: total params",
+      "n_params": 2,
+      "r2": 0.3356473589987674,
+      "adj_r2": 0.311920478963009,
+      "loocv_r2": 0.24009822981913131
+    },
+    {
+      "model": "linear-log: vision + text",
+      "n_params": 3,
+      "r2": 0.6393860196807273,
+      "adj_r2": 0.6126738729904108,
+      "loocv_r2": 0.5233244882217053
+    },
+    {
+      "model": "linear-log: vision + text + interaction",
+      "n_params": 4,
+      "r2": 0.7243282730391772,
+      "adj_r2": 0.69251999685139,
+      "loocv_r2": 0.5429582565850586
+    },
+    {
+      "model": "saturating ceiling",
+      "n_params": 3,
+      "r2": 0.8803546666047836,
+      "adj_r2": 0.871492049316249,
+      "loocv_r2": 0.8261236492712191
+    },
+    {
+      "model": "saturating ceiling with mismatch penalty",
+      "n_params": 4,
+      "r2": 0.9601762327905128,
+      "adj_r2": 0.9555811827278796,
+      "loocv_r2": 0.93684431705863
+    }
+  ],
+  "ceiling_model_coefficients": {
+    "beta0": 0.27840076702659944,
+    "beta1": 0.05542579253488164,
+    "k_text": 0.626891794626918,
+    "c_mismatch": 0.04267839162223861
+  }
+}

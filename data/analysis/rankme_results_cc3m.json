@@ -1,0 +1,242 @@
+[
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Atto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Atto/checkpoints/epoch_latest.pt",
+    "image_rankme": 135.19480895996094,
+    "text_rankme": 108.87125396728516,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Base/checkpoints/epoch_latest.pt",
+    "image_rankme": 172.38250732421875,
+    "text_rankme": 194.55923461914062,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Femto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Femto/checkpoints/epoch_latest.pt",
+    "image_rankme": 87.42237854003906,
+    "text_rankme": 55.42146301269531,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Giant/checkpoints/epoch_latest.pt",
+    "image_rankme": 169.05404663085938,
+    "text_rankme": 189.92074584960938,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Nano",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Nano_1775066645/checkpoints/epoch_latest.pt",
+    "image_rankme": 169.00900268554688,
+    "text_rankme": 166.8531494140625,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Atto-16--Tiny",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Atto-16--Tiny/checkpoints/epoch_latest.pt",
+    "image_rankme": 173.256103515625,
+    "text_rankme": 189.2640380859375,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Atto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Atto_1772904074/checkpoints/epoch_latest.pt",
+    "image_rankme": 151.92601013183594,
+    "text_rankme": 119.27510833740234,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_rankme": 179.26217651367188,
+    "text_rankme": 183.6175079345703,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Femto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Femto_1772991551/checkpoints/epoch_latest.pt",
+    "image_rankme": 97.47673034667969,
+    "text_rankme": 59.644718170166016,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Giant_1771334241/checkpoints/epoch_latest.pt",
+    "image_rankme": 167.23341369628906,
+    "text_rankme": 172.19873046875,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Nano",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Nano_1771161716/checkpoints/epoch_latest.pt",
+    "image_rankme": 193.83261108398438,
+    "text_rankme": 177.08071899414062,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-B-16--Tiny",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Tiny_1771161716/checkpoints/epoch_latest.pt",
+    "image_rankme": 189.59951782226562,
+    "text_rankme": 187.1586151123047,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Atto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Atto_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 146.0691680908203,
+    "text_rankme": 116.58868408203125,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Base_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 156.4716033935547,
+    "text_rankme": 156.82296752929688,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Femto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Femto_1775066645/checkpoints/epoch_latest.pt",
+    "image_rankme": 91.21969604492188,
+    "text_rankme": 59.41062927246094,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Giant_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 136.42855834960938,
+    "text_rankme": 136.91282653808594,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Nano",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Nano_1775066645_A100_V2_att_1/checkpoints/epoch_latest.pt",
+    "image_rankme": 179.12939453125,
+    "text_rankme": 161.1292266845703,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Colossal-16--Tiny",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Colossal-16--Tiny_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 174.75640869140625,
+    "text_rankme": 169.4286651611328,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Atto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Atto/checkpoints/epoch_latest.pt",
+    "image_rankme": 149.70755004882812,
+    "text_rankme": 117.53868103027344,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Base_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 175.48304748535156,
+    "text_rankme": 174.19981384277344,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Femto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Femto/checkpoints/epoch_latest.pt",
+    "image_rankme": 95.95172119140625,
+    "text_rankme": 59.36282730102539,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Giant_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 154.26052856445312,
+    "text_rankme": 153.72171020507812,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Nano",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Nano_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 187.3231658935547,
+    "text_rankme": 167.2080535888672,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Giant-16--Tiny",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Giant-16--Tiny_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 184.50025939941406,
+    "text_rankme": 177.33370971679688,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Atto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Atto_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 151.79820251464844,
+    "text_rankme": 118.77050018310547,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Base/checkpoints/epoch_latest.pt",
+    "image_rankme": 187.2543182373047,
+    "text_rankme": 195.06048583984375,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Femto",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Femto/checkpoints/epoch_latest.pt",
+    "image_rankme": 97.74301147460938,
+    "text_rankme": 58.937808990478516,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Giant_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 176.33905029296875,
+    "text_rankme": 183.9160614013672,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Nano",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Nano_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 196.72361755371094,
+    "text_rankme": 180.9405059814453,
+    "max_samples": 25600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc3m/cc3m_llama3.1-8b_4_True_False_42/train/cc3m-train-{0000..0575}.tar",
+    "architecture": "ViT-Tiny-16--Tiny",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-Tiny-16--Tiny_1775066645_V100/checkpoints/epoch_latest.pt",
+    "image_rankme": 190.49395751953125,
+    "text_rankme": 190.8125,
+    "max_samples": 25600
+  }
+]

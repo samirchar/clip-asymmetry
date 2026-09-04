@@ -1,0 +1,146 @@
+[
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Giant-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Giant-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.9812421798706055,
+    "text_uniformity": -3.0263640880584717,
+    "alignment": 1.2478199005126953,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Giant-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Giant-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.005373239517212,
+    "text_uniformity": -2.963555097579956,
+    "alignment": 1.2081197500228882,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Atto-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Atto-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.919771194458008,
+    "text_uniformity": -3.065275192260742,
+    "alignment": 1.3799093961715698,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Atto-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Atto-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.961853265762329,
+    "text_uniformity": -2.9097554683685303,
+    "alignment": 1.3445781469345093,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Tiny-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Tiny-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.959017038345337,
+    "text_uniformity": -3.0300233364105225,
+    "alignment": 1.3180935382843018,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-Tiny-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Tiny-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.9501819610595703,
+    "text_uniformity": -2.865013599395752,
+    "alignment": 1.2736135721206665,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Giant_wd_joint_scale0.5_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.936598300933838,
+    "text_uniformity": -3.0110154151916504,
+    "alignment": 1.290854573249817,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Giant_wdscale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.9665660858154297,
+    "text_uniformity": -2.8638155460357666,
+    "alignment": 1.2261170148849487,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Giant-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Giant-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.7761282920837402,
+    "text_uniformity": -3.116363048553467,
+    "alignment": 1.2453423738479614,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Giant-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Giant-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.80122447013855,
+    "text_uniformity": -3.1155970096588135,
+    "alignment": 1.1963162422180176,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Atto-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Atto-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.6588218212127686,
+    "text_uniformity": -3.152489185333252,
+    "alignment": 1.4007008075714111,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Atto-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Atto-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.7129697799682617,
+    "text_uniformity": -3.1451570987701416,
+    "alignment": 1.3643118143081665,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Tiny-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Tiny-16--Giant_wd_joint_scale0.5_1779556615_attempt_1/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.7441787719726562,
+    "text_uniformity": -3.1209073066711426,
+    "alignment": 1.3214949369430542,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-Tiny-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-Tiny-16--Giant_wd_vision_scale1_wd_text_scale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.738574743270874,
+    "text_uniformity": -3.07021427154541,
+    "alignment": 1.2708536386489868,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Giant_wd_joint_scale0.5_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.7367806434631348,
+    "text_uniformity": -3.1285524368286133,
+    "alignment": 1.2872508764266968,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Giant",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Giant_wdscale2_1779556615/checkpoints/epoch_latest.pt",
+    "image_uniformity": -2.744607925415039,
+    "text_uniformity": -3.081449270248413,
+    "alignment": 1.2159584760665894,
+    "max_samples": 5000
+  }
+]

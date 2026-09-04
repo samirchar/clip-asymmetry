@@ -1,0 +1,27 @@
+{
+  "probe": "mscoco_captions",
+  "n_grid": 30,
+  "n_weight_decay": 8,
+  "fits": {
+    "Image uniformity": {
+      "adj_r2": 0.4760220644933013,
+      "loocv_r2": 0.44467429393675506
+    },
+    "Alignment": {
+      "adj_r2": 0.1266632313718301,
+      "loocv_r2": 0.02172231489248555
+    },
+    "Text uniformity": {
+      "adj_r2": 0.32840086480991426,
+      "loocv_r2": 0.27453367453105126
+    },
+    "Image uniformity + alignment": {
+      "adj_r2": 0.8379827671764671,
+      "loocv_r2": 0.8102666191191806
+    },
+    "All three": {
+      "adj_r2": 0.8350698172284021,
+      "loocv_r2": 0.7938846823481696
+    }
+  }
+}

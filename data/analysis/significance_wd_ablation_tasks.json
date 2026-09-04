@@ -1,0 +1,80 @@
+{
+  "sign_tests": {
+    "Base--Giant": [
+      {
+        "test": "Test 1  text > vision (asymmetry)",
+        "high_wd": "text",
+        "low_wd": "vision",
+        "level": 1.0,
+        "wins": 25,
+        "n": 30,
+        "mean_delta": 3.03089118575342,
+        "p": 0.0003249142318964005
+      },
+      {
+        "test": "Test 2  text > joint  (vs. symmetric)",
+        "high_wd": "text",
+        "low_wd": "joint",
+        "level": 1.0,
+        "wins": 23,
+        "n": 30,
+        "mean_delta": 0.7630135336307942,
+        "p": 0.005222879350185395
+      },
+      {
+        "test": "Test 1  text > vision",
+        "high_wd": "text",
+        "low_wd": "vision",
+        "level": 0.75,
+        "wins": 25,
+        "n": 30,
+        "mean_delta": 1.6009912867967298,
+        "p": 0.0003249142318964005
+      },
+      {
+        "test": "Test 2  text > joint",
+        "high_wd": "text",
+        "low_wd": "joint",
+        "level": 0.75,
+        "wins": 15,
+        "n": 30,
+        "mean_delta": 0.10217516246373784,
+        "p": 1.0
+      }
+    ],
+    "Giant--Giant": [
+      {
+        "test": "Test 1  text > vision (asymmetry)",
+        "high_wd": "text",
+        "low_wd": "vision",
+        "level": 1.0,
+        "wins": 23,
+        "n": 30,
+        "mean_delta": 2.138652008926168,
+        "p": 0.005222879350185395
+      },
+      {
+        "test": "Test 1  text > vision",
+        "high_wd": "text",
+        "low_wd": "vision",
+        "level": 0.75,
+        "wins": 22,
+        "n": 30,
+        "mean_delta": 0.7354321754321481,
+        "p": 0.016124801710247997
+      }
+    ]
+  },
+  "encoder_params": {
+    "ViT-B-16--Giant": {
+      "vision_params_m": 86.19264,
+      "text_params_m": 144.717312,
+      "vision_over_text": 0.5955931519789422
+    },
+    "ViT-Giant-16--Giant": {
+      "vision_params_m": 194.236672,
+      "text_params_m": 144.717312,
+      "vision_over_text": 1.3421799321424654
+    }
+  }
+}

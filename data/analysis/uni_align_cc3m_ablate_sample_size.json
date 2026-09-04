@@ -1,0 +1,182 @@
+[
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.407867431640625,
+    "text_uniformity": -3.395085334777832,
+    "alignment": 1.3835721015930176,
+    "max_samples": 100
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.4236979484558105,
+    "text_uniformity": -3.414411783218384,
+    "alignment": 1.361639380455017,
+    "max_samples": 300
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.431058883666992,
+    "text_uniformity": -3.429863691329956,
+    "alignment": 1.3560529947280884,
+    "max_samples": 500
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.4314444065093994,
+    "text_uniformity": -3.4289603233337402,
+    "alignment": 1.3607860803604126,
+    "max_samples": 700
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.4335923194885254,
+    "text_uniformity": -3.4280149936676025,
+    "alignment": 1.36174738407135,
+    "max_samples": 900
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.432544469833374,
+    "text_uniformity": -3.4294745922088623,
+    "alignment": 1.3665528297424316,
+    "max_samples": 1000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.4300434589385986,
+    "text_uniformity": -3.4329020977020264,
+    "alignment": 1.3680946826934814,
+    "max_samples": 2000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.42751145362854,
+    "text_uniformity": -3.4228014945983887,
+    "alignment": 1.3656063079833984,
+    "max_samples": 3000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.431098699569702,
+    "text_uniformity": -3.4241249561309814,
+    "alignment": 1.363187551498413,
+    "max_samples": 4000
+  },
+  {
+    "dataset": "mscoco_captions",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.4306211471557617,
+    "text_uniformity": -3.421211004257202,
+    "alignment": 1.3617151975631714,
+    "max_samples": 5000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.246577739715576,
+    "text_uniformity": -3.300013542175293,
+    "alignment": 1.3741949796676636,
+    "max_samples": 100
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.253603219985962,
+    "text_uniformity": -3.321476697921753,
+    "alignment": 1.3901804685592651,
+    "max_samples": 300
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2571401596069336,
+    "text_uniformity": -3.3215322494506836,
+    "alignment": 1.4033193588256836,
+    "max_samples": 500
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2622616291046143,
+    "text_uniformity": -3.3220343589782715,
+    "alignment": 1.4087053537368774,
+    "max_samples": 700
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.25412917137146,
+    "text_uniformity": -3.3225278854370117,
+    "alignment": 1.4069480895996094,
+    "max_samples": 900
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2490272521972656,
+    "text_uniformity": -3.3221518993377686,
+    "alignment": 1.4110368490219116,
+    "max_samples": 1000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2490272521972656,
+    "text_uniformity": -3.3221518993377686,
+    "alignment": 1.4110368490219116,
+    "max_samples": 2000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2490272521972656,
+    "text_uniformity": -3.3221518993377686,
+    "alignment": 1.4110368490219116,
+    "max_samples": 3000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2490272521972656,
+    "text_uniformity": -3.3221518993377686,
+    "alignment": 1.4110368490219116,
+    "max_samples": 4000
+  },
+  {
+    "dataset": "flickr30k",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc3m_architecture_ViT-B-16--Base_1771161716/checkpoints/epoch_latest.pt",
+    "image_uniformity": -3.2490272521972656,
+    "text_uniformity": -3.3221518993377686,
+    "alignment": 1.4110368490219116,
+    "max_samples": 5000
+  }
+]

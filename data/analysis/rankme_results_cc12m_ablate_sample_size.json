@@ -1,0 +1,42 @@
+[
+  {
+    "dataset": "/mnt/blob/data/cc12m/cc12m_llama3.1-8b_4_True_False_42/train/cc12m-train-{0000..2175}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Base_1772044155/checkpoints/epoch_latest.pt",
+    "image_rankme": 203.1544952392578,
+    "text_rankme": 205.20391845703125,
+    "max_samples": 1600
+  },
+  {
+    "dataset": "/mnt/blob/data/cc12m/cc12m_llama3.1-8b_4_True_False_42/train/cc12m-train-{0000..2175}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Base_1772044155/checkpoints/epoch_latest.pt",
+    "image_rankme": 205.64764404296875,
+    "text_rankme": 207.28269958496094,
+    "max_samples": 3200
+  },
+  {
+    "dataset": "/mnt/blob/data/cc12m/cc12m_llama3.1-8b_4_True_False_42/train/cc12m-train-{0000..2175}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Base_1772044155/checkpoints/epoch_latest.pt",
+    "image_rankme": 206.7117919921875,
+    "text_rankme": 208.40936279296875,
+    "max_samples": 6400
+  },
+  {
+    "dataset": "/mnt/blob/data/cc12m/cc12m_llama3.1-8b_4_True_False_42/train/cc12m-train-{0000..2175}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Base_1772044155/checkpoints/epoch_latest.pt",
+    "image_rankme": 207.35595703125,
+    "text_rankme": 209.11793518066406,
+    "max_samples": 12800
+  },
+  {
+    "dataset": "/mnt/blob/data/cc12m/cc12m_llama3.1-8b_4_True_False_42/train/cc12m-train-{0000..2175}.tar",
+    "architecture": "ViT-B-16--Base",
+    "model_path": "/mnt/blob/openclip_logs/cc12m_architecture_ViT-B-16--Base_1772044155/checkpoints/epoch_latest.pt",
+    "image_rankme": 207.64942932128906,
+    "text_rankme": 209.38983154296875,
+    "max_samples": 25600
+  }
+]

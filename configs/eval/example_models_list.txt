@@ -1,0 +1,3 @@
+openclip_logs/ViT-B-16--Atto/
+openclip_logs/ViT-B-16--Base/
+openclip_logs/ViT-B-16--Femto/

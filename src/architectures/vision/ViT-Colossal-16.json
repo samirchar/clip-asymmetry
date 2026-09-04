@@ -1,0 +1,6 @@
+{
+    "image_size": 224,
+    "layers": 22,
+    "width": 1152,
+    "patch_size": 16
+}
