@@ -17,6 +17,8 @@ cross-modal alignment; we further show that these metrics are predictive of zero
 performance. We hope these findings motivate CLIP architectures and training methods that
 counteract this degradation, a prerequisite for scaling CLIP reliably and efficiently.
 
+**Paper:** *Bigger Text Encoders Can Hurt CLIP Zero-Shot Performance*, arXiv:XXXX.XXXXX (link TBD).
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -27,6 +29,7 @@ counteract this degradation, a prerequisite for scaling CLIP reliably and effici
 - [Creating Architectures](#creating-architectures)
 - [Training a Model](#training-a-model)
 - [Evaluating a Model](#evaluating-a-model)
+- [Citation](#citation)
 
 ## Installation
 
@@ -341,3 +344,15 @@ The eval dataset lists live in `configs/eval/`:
 Select a list with `--datasets-path configs/eval/webdatasets_zero_shot.txt`. Per-run results
 are written to `benchmarks/*.json` and aggregated into `benchmarks/merged_benchmark.csv`,
 which the analysis and figure scripts consume.
+
+## Citation
+
+If you use this code or the released checkpoints, please cite:
+
+```bibtex
+@article{char_clip_asymmetry,
+  title  = {Bigger Text Encoders Can Hurt CLIP Zero-Shot Performance},
+  author = {Char, Samir and Domingo-Enrich, Carles and Balestriero, Randall},
+  year   = {2026}
+}
+```
