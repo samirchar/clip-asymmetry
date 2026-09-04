@@ -17,6 +17,12 @@ cross-modal alignment; we further show that these metrics are predictive of zero
 performance. We hope these findings motivate CLIP architectures and training methods that
 counteract this degradation, a prerequisite for scaling CLIP reliably and efficiently.
 
+<p align="center">
+  <img src="assets/figure1.png" alt="Overview: (a) CLIP models landscape showing underexplored vision/text capacity splits; (b) grid of 30 CLIP architectures across 5 vision and 6 text encoder sizes; (c) evaluation across diverse zero-shot and linear-probe tasks plus embedding geometry; (d) oversized text encoders degrade zero-shot performance, while modality-specific weight decay recovers it." width="100%">
+</p>
+
+<p align="center"><em>We train 30 CLIP models spanning vision/text encoder sizes, evaluate them across diverse tasks, and show that oversized text encoders degrade zero-shot performance due to overfitting — which modality-specific weight decay recovers.</em></p>
+
 **Paper:** *Bigger Text Encoders Can Hurt CLIP Zero-Shot Performance*, arXiv:XXXX.XXXXX (link TBD).
 
 ## Table of Contents
